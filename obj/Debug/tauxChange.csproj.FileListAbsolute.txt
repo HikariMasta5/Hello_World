@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\tauxChange\obj\Debug\tauxChange.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\tauxChange\obj\Debug\tauxChange.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\tauxChange\obj\Debug\tauxChange.Form1.resources
+C:\Users\LENOVO\source\repos\tauxChange\obj\Debug\tauxChange.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\tauxChange\obj\Debug\tauxChange.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\tauxChange\obj\Debug\tauxChange.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\tauxChange\bin\Debug\tauxChange.exe.config
+C:\Users\LENOVO\source\repos\tauxChange\bin\Debug\tauxChange.exe
+C:\Users\LENOVO\source\repos\tauxChange\bin\Debug\tauxChange.pdb
+C:\Users\LENOVO\source\repos\tauxChange\obj\Debug\tauxChange.exe
+C:\Users\LENOVO\source\repos\tauxChange\obj\Debug\tauxChange.pdb
